@@ -1,5 +1,4 @@
 import React from 'react';
-// import { downvoteQuote, removeQuote, upvoteQuote } from '../actions/quotes';
 
 const QuoteCard = (props) =>
   <div>
